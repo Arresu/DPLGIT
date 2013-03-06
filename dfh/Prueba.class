@@ -1,3 +1,6 @@
 class Prueba {
 	private int nota;
+	
+	public int getNota(){
+	}
 }
