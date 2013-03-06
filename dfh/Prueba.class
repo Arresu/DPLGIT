@@ -4,7 +4,9 @@ class Prueba {
 	public int getNota(){
 		return this.nota;
 	}
+	
 	public void setNota(int n){
 		this.nota = n;
 	}
+	
 }
