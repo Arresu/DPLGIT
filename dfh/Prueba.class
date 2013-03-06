@@ -1,4 +1,5 @@
 class Prueba {
+	//sirve para gaurdar nota
 	private int nota;
 	
 	public int getNota(){
