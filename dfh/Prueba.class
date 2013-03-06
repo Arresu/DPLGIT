@@ -8,5 +8,7 @@ class Prueba {
 	public void setNota(int n){
 		this.nota = n;
 	}
+	public int sumarNota(int n){
+		this.nota += n;
 	
 }
